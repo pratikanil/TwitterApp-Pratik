@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Asus\Desktop\Pratik\twitterclone-aditya\env"
+VIRTUAL_ENV="C:\Users\Asus\Desktop\Pratik\twitterapp\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
